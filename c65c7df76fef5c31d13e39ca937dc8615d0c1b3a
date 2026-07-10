@@ -1,0 +1,1 @@
+{"format_version":"1.0.0","summary":{"ai_proposed_lines":18,"ai_committed_lines":3,"human_committed_lines":1,"tokens_consumed":0},"agents":[{"name":"Gemini","version":"Next"}],"details":[{"file":"README.md","session_ids":["bcc848c9-93c1-4e62-95a4-adf997778f03","da9e09b1-3f27-446b-8447-5554b50358c7"],"ai_ranges":[{"start":1,"end":3}],"human_ranges":[{"start":4,"end":4}]}]}
