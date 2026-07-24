@@ -3,6 +3,8 @@
 
 hi my name is ray 
 
+Updated README documentation.
+
 ## Tests
 
 ```python
